@@ -1,7 +1,7 @@
-![Diagram](https://patchup5euro.github.io/Managment/BusinessModelCanvas.drawio.svg)
+![Diagram](https://patchup5euro.github.io/Management/BusinessModelCanvas.drawio.svg)
 
-<a href="https://github.dev/PatchUp5Euro/Managment/BusinessModelCanvas.drawio.svg" target="_blank">Edit</a>
+<a href="https://github.dev/PatchUp5Euro/Management/BusinessModelCanvas.drawio.svg" target="_blank">Edit</a>
 
-![Diagram](https://patchup5euro.github.io/Managment/ValuePropositionCanvas.drawio.svg)
+![Diagram](https://patchup5euro.github.io/Management/ValuePropositionCanvas.drawio.svg)
 
-<a href="https://github.dev/PatchUp5Euro/Managment/ValuePropositionCanvas.drawio.svg" target="_blank">Edit</a>
+<a href="https://github.dev/PatchUp5Euro/Management/ValuePropositionCanvas.drawio.svg" target="_blank">Edit</a>
